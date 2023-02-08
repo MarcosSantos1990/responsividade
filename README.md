@@ -18,7 +18,7 @@ Programa exclusivo do Explorer, promovido pela Rocketseat para ensino de tecnolo
 <br>
 
 <p align="center">
-  <img alt=" Responsividade" src=".github/preview.png" width="100%">
+  <img alt=" Responsividade" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
